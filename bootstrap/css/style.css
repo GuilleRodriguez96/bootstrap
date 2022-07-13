@@ -1,0 +1,59 @@
+.bg-colornav {
+    background-color: #730202;
+}
+
+.main {
+    background-color: #DD7F1F;
+}
+
+.border {
+    color: #e2e8f0;
+}
+
+/*arrope texto*/
+
+.arrope {
+    line-height: 1.5;
+    margin-top: 35px;
+}
+
+.arrope__title {
+    background-color: #730202;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.arrope__subtitle {
+    background-color: white;
+    color: #730202;
+    font-size: 25px;
+    text-align: center;
+}
+
+.arrope__text {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 50px 50px;
+}
+
+
+/*footer*/
+
+.footer {
+    background-color: #18100C;
+    color: white;
+    display: flex;
+    justify-content: center;      
+    margin: 0;  
+}
+.footer__title{
+    color: #e2e8f0;
+    font-size: 25px;
+    margin: 10px 10px;
+}
+
+.footer__img {
+    margin: 10px 30px;
+ }
